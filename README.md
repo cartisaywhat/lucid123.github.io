@@ -1,1 +1,2 @@
-# cartisaywhat.github.io
+# lucidmoday-website
+Website for Lucid Monday
